@@ -1,0 +1,1 @@
+When cloning this repository, download the `atchaf_20210912_AirSWOT_L3.csv` file and place it in a folder called `data` in the same directory as the `src` folder. Then run `main.py`. The database file `elevation_data.db` should appear in the `src` folder. Use an app like `TablePlus` to view the database's table: `elevation_data`.
