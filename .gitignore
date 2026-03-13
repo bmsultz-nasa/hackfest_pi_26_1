@@ -421,6 +421,5 @@ FodyWeavers.xsd
 *.cfg
 /lib
 
-# Project data
-/data
+# Project database
 *.db
